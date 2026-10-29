@@ -11,7 +11,7 @@
       "media/05-预览-亮屏与息屏.png"
     ],
     "icon": "media/01-图标-1比1.png",
-    "cover": "media/02-封面-3比2-三机.webp",
+    "cover": "media/02-封面-3比2-概念.png",
     "author": [
       {
         "name": "brin",
@@ -27,6 +27,26 @@
     }
   ],
   "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Red Planet.face",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Red Planet.face",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Red Planet.face",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Red Planet.face",
+      "versionCode": 0
+    },
     "xmb9p": {
       "version": "0.0.0",
       "file_name": "downloads/Red Planet PRO.face",
@@ -59,26 +79,6 @@
           "content": "新增 REDMI Watch 6 支持"
         }
       ]
-    },
-    "xmb10": {
-      "version": "0.0.0",
-      "file_name": "downloads/Red Planet.face",
-      "versionCode": 0
-    },
-    "xmb10nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/Red Planet.face",
-      "versionCode": 0
-    },
-    "xmb11": {
-      "version": "0.0.0",
-      "file_name": "downloads/Red Planet.face",
-      "versionCode": 0
-    },
-    "xmb11nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/Red Planet.face",
-      "versionCode": 0
     }
   },
   "ext": {
